@@ -6,8 +6,13 @@
 
   i.  Mobile Wallets
   
-    a.  breadwallet - www.breadwallet.com
-        breadwallet is free and the most secure bitcoin wallet on apple mobile devices. I personally have used it in the past. It is a 
-        very easy to use bitcoin wallet, you can send and recieve bitcoins with a couple of taps.
-        
+    breadwallet - www.breadwallet.com
+    breadwallet is free and the most secure bitcoin wallet on apple mobile devices. I personally have used it in the past. It is a 
+    very easy to use bitcoin wallet, you can send and recieve bitcoins with a couple of taps.
+
   ii. Computer Wallets
+
+    Bitcoin Core - www.bitcoinore.org
+    The Bitcoin Core is the Basic and Original Bitcoin Wallet. It is developed by the people who made bitcoin. This is my current wallet and it is very easy to use, just like the others.
+    
+# Step 2
