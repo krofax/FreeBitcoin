@@ -2,7 +2,7 @@
 
     Wallets
     
-    I prefer the wallets below but, you can find others at wwww.bitcoin.org/en/choose-your-wallet.
+    I prefer the wallets below but, you can find others and a tutorial at wwww.bitcoin.org/en/choose-your-wallet.
     In order to earn free bitcoin you need to install a bitcoin wallet. A bitcoin wallet is like a normal 
     wallet that holds your bitcoins.
     You can install bitcoin wallets on different platforms; like on a phone or a computer.
